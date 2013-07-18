@@ -3,6 +3,8 @@ sass-spec
 
 Contains a test suite, helper script, and testing script. By their powers combined, you should be able to test sass files.
 
+NOTE: This repo is deprecated, use hcatlin/sass-spec for a more up-to-date version.
+
 test suite
 ==========
 
